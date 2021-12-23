@@ -1,0 +1,23 @@
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .toptitle{
+        font-size: 60px;
+    }
+    .pagetitle{
+        font-size:50px;
+    }
+    p{
+        font-size: large;
+    }
+    .featurette img{
+        width: 400px;
+        height: 500px;
+        display: inline-block;
+
+    }
+    .lead{
+        font-size: large;
+      
+    }
+ }

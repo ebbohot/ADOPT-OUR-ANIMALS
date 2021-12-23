@@ -1,0 +1,108 @@
+/*===START NOLLSTÄLLA CSS===*/
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding-top:0px;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #B1DDF6;
+
+
+}
+/*===END NOLLSTÄLLA CSS===*/
+/*===START HEAD CSS===*/
+/*=== custom font  ===*/
+@font-face{
+    src:url(fonts/IndieFlower-Regular.ttf);
+    font-family:IndieFlower-Regular;
+}
+
+.toptitle{
+    font-family: IndieFlower-Regular;
+}
+
+.pagetitle{
+    font-family: Reenie Beanie;
+    text-decoration: underline;
+}
+.homeimg{
+    width: 100%;
+
+}
+/*===END HEAD CSS===*/
+/*===START CARD CSS===*/
+
+.card .card-header{
+    background:#94FDBF ;
+}
+.card .card-body{
+    background:#B1DDF6;
+}
+.card .card-body a{
+    background:#94FDBF ; 
+    color: black;
+}
+.card .card-footer{
+    background:#94FDBF ;
+    padding:25px
+
+}
+/*===END CARD CSS===*/
+/*===START LINK PAGE CSS===*/
+.linkpages img{
+    border-radius: 80% ;
+    height: 145PX;
+}
+.linkpages a button{
+    width: 208px;
+    height: 62px;
+    font-size: xx-large;
+    font-family: Reenie Beanie;          
+    background: #94FDBF; 
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    
+}
+/*===END LINK PAGE CSS===*/
+
+/*===START CONTACT FORM PAGE CSS===*/
+
+form{
+margin: 40px;
+}
+.form-group .textarea{
+    height: 200px;
+}
+/*===END CONTACT FORM PAGE CSS===*/
+
+/*===START FOOTER PAGEES CSS===*/
+
+footer{
+    background: #222;
+    padding: 30px;
+}
+.fa-youtube{
+    font-size: 2em; 
+    color: red;
+}
+.fa-facebook-square{
+   font-size: 2em; 
+   color: blue;
+}
+.c{
+    color: red;
+}
+footer a{
+    font-size: 80px;
+    color:white;
+}
+.copy{
+    padding-top: 50px;
+}
+/*===END FOOTER PAGEES CSS===*/
+
+.lead{
+  
+    text-align: justify;
+}

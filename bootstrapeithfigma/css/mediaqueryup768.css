@@ -1,0 +1,30 @@
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .toptitle{
+        font-size: 50px;
+    }
+    .pagetitle{
+        font-size:40px;
+    }
+    p{
+        font-size: larger;
+    }
+   
+    .homeimg{
+        height: 500px;
+    
+    }
+    .only{
+        width: 330px;
+    }
+    .featurette img{
+        width: 350px;
+        height: 400px;
+    }
+    .lead{
+        font-size: large;
+      
+    }
+
+  }

@@ -1,0 +1,24 @@
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .toptitle{
+        font-size: 30px;
+    }
+    .pagetitle{
+        font-size:20px;
+    }
+    p{
+        font-size: smaller;
+    }
+    .homeimg{
+        height: 378.67;
+    }
+    .featurette img{
+        width: 250px;
+        height:300px;
+    }
+    .lead{
+        font-size: x-small;
+        padding: 20px;
+    }
+ }

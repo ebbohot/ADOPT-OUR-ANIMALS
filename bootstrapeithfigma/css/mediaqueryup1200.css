@@ -1,0 +1,19 @@
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    .toptitle{
+    font-size: 60px;
+}
+.pagetitle{
+    font-size:50px;
+}
+p{
+    font-size: large;
+}
+.featurette img{
+    width: 400px;
+    height: 600px;
+}
+
+
+}
